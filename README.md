@@ -54,6 +54,12 @@ A community feedback wall where team members submit suggestions, upvote, and dis
 - Minimal pagination (can be added)
 - Basic styles; can be further refined
 
+## ScreenShots
+<img width="306" height="549" alt="image" src="https://github.com/user-attachments/assets/5f370ae7-0760-4da6-925e-84777d49184d" />
+<img width="311" height="547" alt="image" src="https://github.com/user-attachments/assets/349c1a51-a36d-49dd-9f9e-ba1ca95d155a" />
+<img width="320" height="560" alt="image" src="https://github.com/user-attachments/assets/fe722509-0ef2-473f-ad11-2e051c5ad467" />
+
+
 ## Security Notes
 - Prepared statements for DB access
 - Bcrypt hashing
